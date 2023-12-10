@@ -1,4 +1,4 @@
-package abhinavkhedkargo
+package main
 
 import (
 	"encoding/json"
